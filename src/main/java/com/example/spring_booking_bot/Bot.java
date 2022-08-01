@@ -27,14 +27,14 @@ public class Bot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "sprin_medicine_bot";
+        return "";
     }
 
 
 
     @Override
     public String getBotToken() {
-        return "5499245276:AAEnVMj4PGiQ4LeQIuR4OAp33uA0ZMcdpz0";
+        return "";
     }
 
     @Override
